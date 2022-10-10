@@ -7,6 +7,10 @@
 
 # COMMAND ----------
 
+print("Hello World")
+
+# COMMAND ----------
+
 # MAGIC %md <i18n value="5f2cfc0b-1998-4182-966d-8efed6020eb2"/>
 # MAGIC 
 # MAGIC 
